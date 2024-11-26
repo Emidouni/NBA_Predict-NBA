@@ -12,6 +12,7 @@ idna==3.10
 intel-cmplr-lib-ur==2025.0.2
 intel-openmp==2025.0.2
 Jinja2==3.1.4
+joblib==1.4.2
 jsonschema==4.23.0
 jsonschema-specifications==2024.10.1
 markdown-it-py==3.0.0
@@ -34,6 +35,8 @@ referencing==0.35.1
 requests==2.32.3
 rich==13.9.4
 rpds-py==0.21.0
+scikit-learn==1.5.2
+scipy==1.14.1
 setuptools==75.1.0
 six==1.16.0
 smmap==5.0.1
@@ -41,6 +44,7 @@ streamlit==1.40.2
 tbb==2022.0.0
 tcmlib==1.2.0
 tenacity==9.0.0
+threadpoolctl==3.5.0
 toml==0.10.2
 tornado==6.4.2
 typing_extensions==4.12.2
@@ -49,4 +53,5 @@ umf==0.9.1
 urllib3==2.2.3
 watchdog==6.0.0
 wheel==0.44.0
+
 
